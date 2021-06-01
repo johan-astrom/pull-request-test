@@ -1,3 +1,7 @@
 Test in Main
+<<<<<<< HEAD
 Test in develop
 Test in feature
+=======
+Conflict from main
+>>>>>>> 5e70f61... Conflict
